@@ -40,4 +40,4 @@ Data Import and Cleaning:
    - Use pivot tables to analyze sales performance, order distribution, and customer demographics.
 
 # Data Analysis and Visualization 
-
+![Superstore Analysis]('https://github.com/prajaktakadu11/Interactive_Sales_Dashboard_for_Superstore_Using_Excel/blob/main/Superstore%20analysis.PNG?raw=true')
