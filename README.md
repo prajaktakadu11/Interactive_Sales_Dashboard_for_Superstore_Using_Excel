@@ -14,18 +14,18 @@ The Superstore Sales Data Analysis project involves analyzing a comprehensive da
 # Objective:
 The primary objective of the Superstore Sales Data Analysis project is to derive actionable insights from the superstore's sales data using Excel's powerful data analysis and visualization tools to understand sales performance, customer behavior, and product distribution.
 
-# Tools and Technologies
+# Tools and Technologies:
 - Excel
 - Pivot table
 
 # Data Analysis:
 Data Import and Cleaning:
 
-1. Import the dataset into Excel.
+1. Import the dataset into Excel:
   - Clean the data by removing any duplicates and handling missing values.
   - Ensure all data fields are correctly formatted, especially dates and numerical values.
 
-2. Data processing
+2. Data processing:
   - Adding 'Age Group' Column: To understand the purchasing behavior across different age segments, we created an 'Age Group' column.
     ```
     =IF(Age>=50,"Senior",IF(Age>=30,"Adult","Teenager"))
@@ -39,10 +39,10 @@ Data Import and Cleaning:
    - Create pivot tables to summarize data for different analysis requirements.
    - Use pivot tables to analyze sales performance, order distribution, and customer demographics.
 
-# Data Analysis and Visualization 
+# Data Analysis and Visualization: 
 ![Superstore Analysis](https://github.com/prajaktakadu11/Interactive_Sales_Dashboard_for_Superstore_Using_Excel/blob/main/Superstore%20analysis.PNG?raw=true)
 
-# Project Insights and Finding 
+# Project Insights and Finding:
 - Sales Performance:
   The combo chart revealed the monthly sales trends and the corresponding count of orders.<br>
   The analysis showed peak sales in march month.
